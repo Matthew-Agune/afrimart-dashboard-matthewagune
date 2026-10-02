@@ -42,7 +42,7 @@ Excel PivotCharts – Used to create interactive visualizations.
 Excel Slicers/Filters – Used to enable interactive filtering by country and year.
 GitHub – Used for project documentation, version control, and portfolio presentation
 
-![dashboard)(AfriMart_KollyBright_Sales_Sashboard_Excel_083557.png)
+![dashboard](AfriMart_KollyBright_Sales_Sashboard_Excel_083557.png)
 ![logo](AfriMart_KollyBright_logo.png)
 -[salesdataset](Github_AfriMart_Sales_Dataset_102558.xlsx)
 
