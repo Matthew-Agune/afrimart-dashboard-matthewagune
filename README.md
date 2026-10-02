@@ -1,7 +1,8 @@
 # afrimart-dashboard-matthewagune
 Interactive Excel dashboard for analyzing AfriMart sales performance, revenue, profit, and product trends.
-Project Overview
 
+
+##Project Overview
 The AfriMart KollyBright Sales Dashboard is an interactive business intelligence dashboard developed to analyze sales performance, revenue, profitability, and product performance across different countries and time periods.
 The dashboard transforms raw sales data into meaningful visual insights that can support business decision-making, performance monitoring, and identification of sales trends.
 ---
