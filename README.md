@@ -22,7 +22,7 @@ The dashboard was designed to answer the following business questions:
 - What is the revenue trend over time?
 - What are the top 5 performing products?
 - How does revenue vary across products and countries?
-- Wow does business performance change across different years?
+- How does business performance change across different years?
 
 ---
 
@@ -35,19 +35,19 @@ The dashboard highlights the following key performance indicators:
 - Profit Margin 23.28% 
 
 ---
-##Tools used
+## Tools used
 Microsoft Excel – Data analysis, calculations, PivotTables, PivotCharts, dashboard development and visualization.
 Excel PivotTables – Used to summarize and analyze sales data.
 Excel PivotCharts – Used to create interactive visualizations.
 Excel Slicers/Filters – Used to enable interactive filtering by country and year.
 GitHub – Used for project documentation, version control, and portfolio presentation
 
-![dashboard](AfriMart_KollyBright_Sales_Sashboard_Excel_083557.png)
+![dashboard](AfriMart_KollyBright_Sales_Dashboard_Excel_083557.png)
 ![logo](AfriMart_KollyBright_logo.png)
 -[salesdataset](Github_AfriMart_Sales_Dataset_102558.xlsx)
 
 ---
-##Conclusion
+## Conclusion
 The AfriMart KollyBright Sales Dashboard provides a centralized view of sales and financial performance. By combining KPIs, charts, and interactive filters, the dashboard makes it easier to explore business performance across products, countries, and time periods.
 
 ---
