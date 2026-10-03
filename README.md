@@ -36,11 +36,11 @@ The dashboard highlights the following key performance indicators:
 
 ---
 ## Tools used
-Microsoft Excel – Data analysis, calculations, PivotTables, PivotCharts, dashboard development and visualization.
-Excel PivotTables – Used to summarize and analyze sales data.
-Excel PivotCharts – Used to create interactive visualizations.
-Excel Slicers/Filters – Used to enable interactive filtering by country and year.
-GitHub – Used for project documentation, version control, and portfolio presentation
+- Microsoft Excel – Data analysis, calculations, PivotTables, PivotCharts, dashboard development and visualization.
+- Excel PivotTables – Used to summarize and analyze sales data.
+- Excel PivotCharts – Used to create interactive visualizations.
+- Excel Slicers/Filters – Used to enable interactive filtering by country and year.
+- GitHub – Used for project documentation, version control, and portfolio presentation
 
 ![dashboard](AfriMart_KollyBright_Sales_Dashboard_Excel_083557.png)
 ![logo](AfriMart_KollyBright_logo.png)
